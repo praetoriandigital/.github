@@ -11,11 +11,9 @@ Each badge reflects the current status of the main GitHub Actions workflows.
 
 | Repository | Workflow | Status |
 |-------------|-----------|--------|
-| **phoenix_infra-avp** | Infrastructure Deployment | [![Infrastructure Deployment](https://github.com/praetoriandigital/phoenix_infra-avp/actions/workflows/infrastructure.yml/badge.svg)](https://github.com/praetoriandigital/phoenix_infra-avp/actions/workflows/infrastructure.yml) |
-| **phoenix_infra-mongodb** | Infrastructure Deployment | [![Infrastructure Deployment](https://github.com/praetoriandigital/phoenix_infra-mongodb/actions/workflows/infrastructure.yml/badge.svg)](https://github.com/praetoriandigital/phoenix_infra-mongodb/actions/workflows/infrastructure.yml) |
-| **phoenix_infra-api-keys** | Infrastructure Deployment | [![Infrastructure Deployment](https://github.com/praetoriandigital/phoenix_infra-api-keys/actions/workflows/infrastructure.yml/badge.svg)](https://github.com/praetoriandigital/phoenix_infra-api-keys/actions/workflows/infrastructure.yml) |
-| **phoenix_infra-kms** | Infrastructure Deployment | [![Infrastructure](https://github.com/praetoriandigital/phoenix_infra-kms/actions/workflows/infrastructure.yml/badge.svg)](https://github.com/praetoriandigital/phoenix_infra-kms/actions/workflows/infrastructure.yml)|
-
+| **phoenix_infra-lexid-apis** | Infrastructure Deployment | [![Infrastructure](https://github.com/praetoriandigital/phoenix_infra-lexid-apis/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/praetoriandigital/phoenix_infra-lexid-apis/actions/workflows/ci-cd.yml) |
+| **phoenix_infra-lexiverse-apis** | Infrastructure Deployment | [![Infrastructure](https://github.com/praetoriandigital/phoenix_infra-lexiverse-apis/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/praetoriandigital/phoenix_infra-lexiverse-apis/actions/workflows/ci-cd.yml) |
+| **phoenix_infra-lexipub-apis** | Infrastructure Deployment | [![Infrastructure](https://github.com/praetoriandigital/phoenix_infra-lexipub-apis/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/praetoriandigital/phoenix_infra-lexipub-apis/actions/workflows/ci-cd.yml) |
 ---
 
 _Last updated: October 2025_
