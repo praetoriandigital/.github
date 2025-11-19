@@ -1,19 +1,25 @@
-# 🚀 Lexipol Engineering CI/CD Overview
+# Lexipol - Repository Catalog
+A centralized, organized view of all repositories in this GitHub organization.
 
-This page provides a quick overview of the build and deployment status across our repositories.  
-Each badge reflects the current status of the main GitHub Actions workflows.
+# Phoenix
 
----
+- [Phoenix infra](https://github.com/search?q=org%3Apraetoriandigital+topic%3Aphoenix+topic%3Ainfrastructure&type=repositories)
+- [Phoenix lambdas](https://github.com/search?q=org%3Apraetoriandigital+topic%3Aphoenix+topic%3Alambdas&type=repositories)
 
-## 🧱 Phoenix Infrastructure
 
----
+# Valkyrie
 
-| Repository | Workflow | Status |
-|-------------|-----------|--------|
-| **phoenix_infra-lexid-apis** | Infrastructure Deployment | [![Infrastructure](https://github.com/praetoriandigital/phoenix_infra-lexid-apis/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/praetoriandigital/phoenix_infra-lexid-apis/actions/workflows/ci-cd.yml) |
-| **phoenix_infra-lexiverse-apis** | Infrastructure Deployment | [![Infrastructure](https://github.com/praetoriandigital/phoenix_infra-lexiverse-apis/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/praetoriandigital/phoenix_infra-lexiverse-apis/actions/workflows/ci-cd.yml) |
-| **phoenix_infra-lexipub-apis** | Infrastructure Deployment | [![Infrastructure](https://github.com/praetoriandigital/phoenix_infra-lexipub-apis/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/praetoriandigital/phoenix_infra-lexipub-apis/actions/workflows/ci-cd.yml) |
+- [Valkyrie infra](https://github.com/search?q=topic%3Avalkyrie+org%3Apraetoriandigital&type=Repositories)
+
+# Data Platform / Datalake
+- [Datalake repositories](https://github.com/search?q=topic%3Adatalake+org%3Apraetoriandigital&type=Repositories)
+
+
+# DevOps & Platform Engineering Tools
+
+- [Lexipol DevOps Tools](https://github.com/search?q=org%3Apraetoriandigital+topic%3Alexipol-devops-tools&type=repositories)
+- [Terraform modules](https://github.com/search?q=topic%3Amodule+org%3Apraetoriandigital&type=Repositories)
+
 ---
 
 _Last updated: October 2025_
