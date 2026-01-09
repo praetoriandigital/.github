@@ -4,6 +4,9 @@ A centralized, organized view of all repositories in this GitHub organization.
 ## Phoenix
 
 - [Phoenix infra](https://github.com/search?q=org%3Apraetoriandigital+topic%3Aphoenix+topic%3Ainfrastructure&type=repositories)
+    - [apis](https://github.com/search?q=org%3Apraetoriandigital+topic%3Aphoenix+topic%3Ainfrastructure+topic%3Ainfra-apis&type=repositories)
+    - [stepfunctions](https://github.com/search?q=org%3Apraetoriandigital+topic%3Aphoenix+topic%3Ainfrastructure+topic%3Astep-functions&type=repositories)
+
 - [Phoenix lambdas](https://github.com/search?q=org%3Apraetoriandigital+topic%3Aphoenix+topic%3Alambdas&type=repositories)
 
 
