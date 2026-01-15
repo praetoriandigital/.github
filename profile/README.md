@@ -8,6 +8,11 @@ A centralized, organized view of all repositories in this GitHub organization.
     - [stepfunctions](https://github.com/search?q=org%3Apraetoriandigital+topic%3Aphoenix+topic%3Ainfrastructure+topic%3Astep-functions&type=repositories)
 
 - [Phoenix lambdas](https://github.com/search?q=org%3Apraetoriandigital+topic%3Aphoenix+topic%3Alambdas&type=repositories)
+    - [lexid](https://github.com/search?q=org%3Apraetoriandigital+topic%3Aphoenix+topic%3Alambdas+topic%3Alexid&type=repositories)
+    - [lexipub](https://github.com/search?q=org%3Apraetoriandigital+topic%3Aphoenix+topic%3Alambdas+topic%3Alexipub&type=repositories)
+    - [lexiverese](https://github.com/search?q=org%3Apraetoriandigital+topic%3Aphoenix+topic%3Alambdas+topic%3Alexiverse&type=repositories)
+    - [lexicore](https://github.com/search?q=org%3Apraetoriandigital+topic%3Aphoenix+topic%3Alambdas+topic%3Alexicore&type=repositories)
+    - [awb](https://github.com/search?q=org%3Apraetoriandigital+topic%3Aphoenix+topic%3Alambdas+topic%3Aawb&type=repositories)
 
 
 ## Valkyrie
