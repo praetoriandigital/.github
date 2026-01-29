@@ -19,6 +19,11 @@ A centralized, organized view of all repositories in this GitHub organization.
 
 - [Valkyrie infra](https://github.com/search?q=topic%3Avalkyrie+org%3Apraetoriandigital&type=Repositories)
 
+## Shield
+
+- [Shield infra](https://github.com/search?q=org%3Apraetoriandigital+topic%3Ashield+topic%3Ainfrastructure&type=repositories)
+
+
 ## Data Platform / Datalake
 - [Datalake repositories](https://github.com/search?q=topic%3Adatalake+org%3Apraetoriandigital&type=Repositories)
 
@@ -30,4 +35,4 @@ A centralized, organized view of all repositories in this GitHub organization.
 
 ---
 
-_Last updated: October 2025_
+_Last updated: Jan 2026_
